@@ -74,4 +74,4 @@ Copy `SDL2.dll` next to `chip8.exe`. Run the unit tests (no SDL2 needed) with `m
 
 ## Possible next steps
 
-- SUPER-CHIP support (128x64 display, scrolling)
+- SUPER-CHIP support (256x128 display, scrolling)
