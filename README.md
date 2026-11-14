@@ -6,9 +6,9 @@ Passes the [Timendus CHIP-8 test suite](https://github.com/Timendus/chip8-test-s
 
 | Quirks (6/6) | Logo |
 |---|---|
-| ![Quirks test: all 6 pass](docs/quirks.png) | ![Logo test](docs/logo.png) |
+| ![Quirks test: all 6 pass](quirks.png) | ![Logo test](logo.png) |
 | **Corax+ (all opcodes pass)** | **Flags (all pass)** |
-| ![Corax+ test: all pass](docs/corax.png) | ![Flags test: all pass](docs/flags.png) |
+| ![Corax+ test: all pass](corax.png) | ![Flags test: all pass](flags.png) |
 
 ## Features
 
